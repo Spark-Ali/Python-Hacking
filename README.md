@@ -6,7 +6,7 @@ _**In this repository I have provided you with the Python Tools I have recently 
 
 # Network-Scanner
 
-_**This Tool will help yu to scan online hosts on Any Network that you are connected on**_
+_**This Tool will help you to scan online hosts on Any Network that you are connected on**_
 
 # Port-Scanner
 
