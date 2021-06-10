@@ -18,4 +18,4 @@ _**This Tool Will help yu to scan for Open ports on any Ip Address You can also 
 
 # Random-Password-Generator
 
-_**This Tool will help to Generate Secure and Dufficult Passwords**_
+_**This tool will help you to generate Dufficult Passwords**_
